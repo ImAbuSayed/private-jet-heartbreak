@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/private-jet-heartbreak/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Private Jet Heartbreak](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/private-jet-heartbreak/) |
+| **Get License** | [License this song: Private Jet Heartbreak](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/private-jet-heartbreak/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Song Name: Private Jet Heartbreak
+> You are the only one I am looking for
+> Leave your worries at the velvet door
+> I want to give you all the luxury
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
